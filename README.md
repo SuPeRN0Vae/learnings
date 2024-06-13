@@ -1,0 +1,2 @@
+# learnings
+simple DE modelling 
